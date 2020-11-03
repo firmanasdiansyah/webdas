@@ -1,0 +1,39 @@
+*{
+	padding:0 ; margin:0;
+}
+body {
+	background-image: url(background.jpg);
+}
+.header {
+	background-color: #2f4f4f;
+	padding: 20px;
+	height: 80px;
+}
+.footer{
+	background-color: #333;
+	padding: 20px;
+	height: 20px;
+	text-align: center;
+}	
+.konten{
+	padding: 20px;
+	height: 400px;
+	width: 800px;
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 120px;
+	background-color: rgba(169,169,169,0.9);
+}
+.menu {
+	background-color: #066;
+	width: 90px;
+	line-height: 20px;
+	text-align: center;
+	vertical-align: middle;
+	float: center;
+	border: 3px solid;
+	border-color: #999;
+	color: #FFf;
+}
+.menu:hover {
+	background-color: #666;

@@ -1,0 +1,17 @@
+.table1{
+	font-family:Times, serif;
+	color:#444;
+	border-collapse:collapse;
+	width:100%;
+	border: 2px solid #f2f5f7;
+}
+.table1 tr th{
+	background:#066;
+	color:#fff;
+	font-weight:normal;
+}
+.table1, th, td{
+	padding: 1px 20px;
+	text-align:center;
+	background:#fff;
+}
